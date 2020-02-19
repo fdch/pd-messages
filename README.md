@@ -1,3 +1,5 @@
+# pd-messages
+
 ## Pd-messages helper files
 
 This is an overview on how to interact with pd (create objects, connect lines, open patches, etc.) using messages. 
@@ -6,7 +8,17 @@ Basically everything in pd is a message. However, since some messages are only u
 
 This tutorial is still on the makings, so any suggestions will be more than welcomed. 
 
+## Usage
+
+Download or clone and open with Pure Data [msp.ucsd.edu](http://msp.ucsd.edu). Then, browse through the tutorial.
+
+Enjoy,
+
+fdch
+
+
 ### Useful resources:
+
 * [PdWiki](http://puredata.info/community/pdwiki/PdInternalMessages/): a list of all pd-messages and a tutorial (Pd-0.34) by Damien Henry
 * [iemguts](https://git.iem.at/pd/iemguts.git) is really convenient for canvas-related stuff
 * [Barknecht](http://puredata.info/community/conventions/convention04/lectures/tk-barknecht): a tutorial on data structures
