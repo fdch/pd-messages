@@ -10,7 +10,7 @@ This tutorial is still on the makings, so any suggestions will be more than welc
 
 ## Usage
 
-Download or clone and open with Pure Data [msp.ucsd.edu](http://msp.ucsd.edu). Then, browse through the tutorial.
+Download or clone and open with Pure Data [msp.ucsd.edu](http://msp.ucsd.edu). Then, open go to the `bin` directory and open `main.pd`. You can browse through the tutorial after that.
 
 Enjoy,
 
